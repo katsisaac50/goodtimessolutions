@@ -33,11 +33,12 @@ function App() {
           </div>
           <div class="item-a">
             <img src={passporticon} width='50%' alt="pass"></img> <br/>
-            <span>Pass Port</span>
+            <h4>PassPort</h4>
+            <p>We help you to process new PassPort and renew of Old one provided you hold a national ID</p>
           </div>
           <div class="item-b">
             <img src={jobsearchicon} width='50%' alt="pass"></img> <br/>
-            <span>Job Search</span>
+            <span>TIN number</span>
           </div>
           <div class="item-c">
             <img src={WorkPermitsicon} width='50%' alt="pass"></img> <br/>
