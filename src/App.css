@@ -52,9 +52,9 @@ background-color:rgb(14, 13, 13);
   float: right;
 }
 
-p {
+/* p {
   color:white;
-}
+} */
 
 /* Current/active navbar link */
 .active {
