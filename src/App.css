@@ -225,10 +225,25 @@ svg {
   grid-row-end: 10;
   z-index: 1;
   margin-top: 0px;
-  background-color: #B6F600;
+  background-color: rgb(12, 12, 11);
+  color: #f7f0f0;
+  height: 200px;
 }
 
 .column { 
   float: left; 
   width: 27%; 
 } 
+
+.intouch{
+  text-align: center;
+}
+
+.subheading{
+  padding-left: 20%;
+  font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+}

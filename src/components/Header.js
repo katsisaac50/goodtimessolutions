@@ -14,7 +14,7 @@ function Header() {
           <h1 className="text-heading">CONSULTING SERVICE FOR ALL</h1>
           <div style={{textAlign: 'center'}}>
             <h3>Our Mission</h3>
-            <p>we are here to serve you</p>
+            <p style={{fontSize: '20px', color: "white", fontWeight: "bold"}}>we are here to serve you</p>
           </div>
           
           </div>
