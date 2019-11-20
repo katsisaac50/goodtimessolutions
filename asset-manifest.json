@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/goodtimessolutions/static/css/main.9c22a28e.chunk.css",
+    "main.js": "/goodtimessolutions/static/js/main.1c78f756.chunk.js",
+    "main.js.map": "/goodtimessolutions/static/js/main.1c78f756.chunk.js.map",
+    "runtime~main.js": "/goodtimessolutions/static/js/runtime~main.2caaa352.js",
+    "runtime~main.js.map": "/goodtimessolutions/static/js/runtime~main.2caaa352.js.map",
+    "static/js/2.b9c53bd8.chunk.js": "/goodtimessolutions/static/js/2.b9c53bd8.chunk.js",
+    "static/js/2.b9c53bd8.chunk.js.map": "/goodtimessolutions/static/js/2.b9c53bd8.chunk.js.map",
+    "index.html": "/goodtimessolutions/index.html",
+    "precache-manifest.e1632e682db383ae2057b328a9583705.js": "/goodtimessolutions/precache-manifest.e1632e682db383ae2057b328a9583705.js",
+    "service-worker.js": "/goodtimessolutions/service-worker.js",
+    "static/css/main.9c22a28e.chunk.css.map": "/goodtimessolutions/static/css/main.9c22a28e.chunk.css.map",
+    "static/media/DrivingLicence1.png": "/goodtimessolutions/static/media/DrivingLicence1.3ceda349.png",
+    "static/media/WorkPermits.png": "/goodtimessolutions/static/media/WorkPermits.aaca79a8.png",
+    "static/media/App.css": "/goodtimessolutions/static/media/company-formation.49d43404.png",
+    "static/media/email-icon.png": "/goodtimessolutions/static/media/email-icon.3585f758.png",
+    "static/media/goodtimesIcon.ico": "/goodtimessolutions/static/media/goodtimesIcon.a4025a98.ico",
+    "static/media/jobsearch.svg": "/goodtimessolutions/static/media/jobsearch.eefb964c.svg",
+    "static/media/passport-512.png": "/goodtimessolutions/static/media/passport-512.46a51865.png",
+    "static/media/phone-icon.png": "/goodtimessolutions/static/media/phone-icon.7417b83d.png",
+    "static/media/vehicleTransfer.png": "/goodtimessolutions/static/media/vehicleTransfer.8fbb74d8.png"
+  }
+}
