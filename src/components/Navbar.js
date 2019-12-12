@@ -11,13 +11,13 @@ class NavBar extends Component {
 
          {/* <div className="Icon"><img src={goodtimesIcon} width="auto" alt='icon'/>
          <span className="IconText">Good Times Solutions</span></div> */}
-         <div className="nav-links">
+         {/* <div className="nav-links">
          <a href="#"><i class="fa fa-fw fa-user"></i> Login </a>
         <a href="#"><i class="fa fa-fw fa-envelope"></i> Contact </a>
         <a href="#"><i class="fa fa-fw fa-search"></i> Search </a>
         <a class="active" href="#"> <i class="fa fa-fw fa-home"></i> Home </a>
         
-         </div>
+         </div> */}
         
         </nav>
       </React.Fragment>
