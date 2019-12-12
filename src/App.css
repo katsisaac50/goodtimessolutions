@@ -291,7 +291,7 @@ li {
   }
   .box2 {
     grid-template-columns: 200px 200px;
-    margin-left: 6%;
+    margin: 0% 10% 0% 10%;
 }
 .item-a{
   grid-column-start: 1;
