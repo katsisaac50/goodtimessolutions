@@ -8,7 +8,7 @@ import DrivingLicenceIcon from '../assets/DrivingLicence1.png';
 function Main() {
   return (
     <div className="container box2">
-          <div style={{width: '115%'}}/* className="section-heading" */>
+          <div style={{width: '115%', padding:'10px'}}/* className="section-heading" */>
             <h1>Our Services</h1> <br/>
           </div>
           <div class="item-a">
