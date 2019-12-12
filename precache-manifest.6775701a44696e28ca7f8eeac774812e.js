@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a85c20975d1e8a538dfce280c673be5",
+    "revision": "5463b3c7b8eea878bd6cda93032ae266",
     "url": "/goodtimessolutions/index.html"
   },
   {
-    "revision": "bbc1e91fa7cf4b408820",
-    "url": "/goodtimessolutions/static/css/main.9c22a28e.chunk.css"
+    "revision": "fc940b31a37cbdc48e37",
+    "url": "/goodtimessolutions/static/css/main.ca3d62b1.chunk.css"
   },
   {
     "revision": "505edf241498c181480a",
     "url": "/goodtimessolutions/static/js/2.b9c53bd8.chunk.js"
   },
   {
-    "revision": "bbc1e91fa7cf4b408820",
-    "url": "/goodtimessolutions/static/js/main.b0c52ecd.chunk.js"
+    "revision": "fc940b31a37cbdc48e37",
+    "url": "/goodtimessolutions/static/js/main.930a1dc1.chunk.js"
   },
   {
     "revision": "c1d88a1b57fb7199404a",
