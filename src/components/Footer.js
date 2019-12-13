@@ -7,9 +7,9 @@ function Footer() {
   return (
     <footer className="container box3"> 
     <h2 className="intouch">GET IN TOUCH</h2>
-    <div style={{marginLeft:"20em"}}>
+    <div className="subhd">
     <div class="column"> 
-                <p className="subheading"><img src={LocationIcon} width='10%' alt="pass"></img> ADDRESS</p> 
+                <p className="subheading"><img src={LocationIcon} className="imghd" alt="pass"></img> ADDRESS</p> 
                 <ul /* style={{ listStyleType: "disc" }} */> 
                     <li>Wakiso, Kayembe</li>
                     <li>Open: Monday - Sunday 8:00 AM to 8:00 PM</li>  
