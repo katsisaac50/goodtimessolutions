@@ -17,7 +17,7 @@ function Footer() {
             </div> 
                 
             <div class="column">
-                            <p className="subheading"><img src={PhoneIcon} width='10%' alt="pass"></img> PHONE</p> 
+                            <p className="subheading"><img src={PhoneIcon} className="imghd" alt="pass"></img> PHONE</p> 
                 <ul> 
                     <li>Mobile: +256786093304</li> 
                     <li>Mobile: +256703076920</li>
@@ -28,7 +28,7 @@ function Footer() {
             <div class="img-container"> 
           
           </div><br/>
-                <p className="subheading"><img src={EmailIcon} width='15%' alt="pass"></img>EMAIL</p> 
+                <p className="subheading"><img src={EmailIcon} width='20%' alt="pass"></img>EMAIL</p> 
                 <ul > 
                     <li></li> 
                      
