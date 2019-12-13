@@ -242,6 +242,14 @@ li {
   list-style-type: none;
 }
 
+.subhd{
+  margin-left:20em
+  }
+
+  .imghd{
+    width:10%
+  }
+
 
 /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
 @media screen and (max-width: 500px) {
@@ -334,6 +342,15 @@ header h1 {
   grid-column-end: 4;
   grid-row-start: 12;
   grid-row-end: auto;
+  height: 300px;
+}
+
+.subhd{
+  margin-left:5em
+  }
+
+.imghd{
+  width:12%
 }
   
 }
