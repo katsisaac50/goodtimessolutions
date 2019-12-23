@@ -28,7 +28,7 @@ function Footer() {
             <div class="img-container"> 
           
           </div><br/>
-                <p className="subheading"><img src={EmailIcon} width='20%' alt="pass"></img>EMAIL</p> 
+                <p className="subheading"><img src={EmailIcon} width='15%' alt="pass"></img>EMAIL</p> 
                 <ul > 
                     <li></li> 
                      

@@ -346,11 +346,15 @@ header h1 {
 }
 
 .subhd{
-  margin-left:5em
+  margin-left:0.5em
   }
 
 .imghd{
   width:12%
 }
+
+.column { 
+  width: 50%; 
+} 
   
 }
